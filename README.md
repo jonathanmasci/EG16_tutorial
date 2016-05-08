@@ -1,2 +1,6 @@
-# EG16_tutorial
-Demo material for the EG16 tutorial on "Deep learning for 3D shape analysis"
+# Deep learning for 3D shape analysis
+## EG16 Tutorial
+
+Refer to ```deep_learning_for_3D_shape_analysis.ipynb``` for the demo and
+details.
+
